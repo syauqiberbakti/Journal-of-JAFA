@@ -1,4 +1,4 @@
-# Open Journal Systems
+# Open Journal Systems (OJS)
 
 [![Build Status](https://app.travis-ci.com/pkp/ojs.svg?branch=main)](https://app.travis-ci.com/pkp/ojs)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/pkp/ojs/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/pkp/ojs/?branch=main)
