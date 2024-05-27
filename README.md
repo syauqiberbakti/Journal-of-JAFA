@@ -5,11 +5,11 @@
 
 Open Journal Systems (OJS) is open source software developed by the [Public Knowledge Project](https://pkp.sfu.ca/) to manage scholarly journals. [Learn More](https://pkp.sfu.ca/software/ojs/)
 
-## Journal of JAFA 
+# Journal of JAFA 
 
 [Journal of JAFA](https://journal.fajarpos.com/) is a system for publishing scientific journals that is published online using the Open Journal System (OJS). This journal is published by Nafenzi Press and managed by PT. Jaringan Media Fajarpos (JAFA), a company engaged in the information industry.
 
-# Bit ECO: Journal of Economics and Business
+## Bit ECO: Journal of Economics and Business
 
 [Bit ECO: Journal of Economics and Business](https://journal.fajarpos.com/index.php/eco) is a scientific journal that focuses on the study of economics and related issues. Published periodically, the journal presents high-quality writings from researchers and academics in the field of economics.
 
@@ -17,7 +17,7 @@ The journal aims to serve as a platform for communication and the exchange of kn
 
 [View Journal](https://journal.fajarpos.com/index.php/eco) [Current Issue](https://journal.fajarpos.com/index.php/eco/issue/current)
 
-# Bit EDU: Journal of Education and Technology
+## Bit EDU: Journal of Education and Technology
 
 [Bit EDU: Journal of Education and Technology](https://journal.fajarpos.com/index.php/edu) is a scientific journal that focuses on the study of education, technology, and related issues. Published periodically, this journal presents high-quality writings from researchers and academics in the fields of education and technology.
 
@@ -25,7 +25,7 @@ The journal aims to serve as a platform for communication and the exchange of kn
 
 [View Journal](https://journal.fajarpos.com/index.php/edu) [Current Issue](https://journal.fajarpos.com/index.php/edu/issue/current)
 
-# Bit HUK: Journal of Law and Sharia
+## Bit HUK: Journal of Law and Sharia
 
 [Bit HUK: Journal of Law and Sharia](https://journal.fajarpos.com/index.php/huk) is a scientific journal that focuses on legal studies and related issues. Published periodically, this journal presents high-quality writings from researchers and academics in the field of law.
 
@@ -33,7 +33,7 @@ The journal aims to serve as a platform for communication and the exchange of kn
 
 [View Journal](https://journal.fajarpos.com/index.php/huk) [Current Issue](https://journal.fajarpos.com/index.php/huk/issue/current)
 
-# Bit SOS: Journal of Social and Cultural
+## Bit SOS: Journal of Social and Cultural
 
 [Bit SOS: Journal of Social and Cultural](https://journal.fajarpos.com/index.php/sos) is a scholarly journal that focuses on social, cultural, and related issues. Published periodically, the journal presents high-quality writings from researchers and academics in the field of social and cultural studies.
 
@@ -41,7 +41,7 @@ The journal aims to serve as a platform for communication and the exchange of kn
 
 [View Journal](https://journal.fajarpos.com/index.php/sos) [Current Issue](https://journal.fajarpos.com/index.php/sos/issue/current)
 
-# Bit POL: Journal of Politics and Communications
+## Bit POL: Journal of Politics and Communications
 
 [Bit POL: Journal of Politics and Communications](https://journal.fajarpos.com/index.php/pol) is a scientific journal that focuses on the study of politics, communication, and related issues. Published periodically, the journal presents high-quality writings from researchers and academics in the fields of politics and communication.
 
